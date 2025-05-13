@@ -1,0 +1,28 @@
+body {
+  background-color: azure;
+}
+h1 {
+  color: gold;
+  text-align: center;
+}
+p{
+  color:rgb(66, 148, 120);
+  font-size: 30px;
+
+}
+img{
+  border: 3px solid black; 
+}
+
+ul{
+  list-style-type: circle;
+}
+li{
+  margin-bottom: 20px;
+}
+a{
+  color: violet;
+}
+a:hover{
+  color: blueviolet;
+}
